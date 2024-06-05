@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<KolekcijaGljiva>
+   <Gljiva>
+      <Naziv>Shiitake</Naziv>
+      <Slika>shiitake.jpg</Slika>
+      <Cijena>12.99 €</Cijena>
+      <Kategorija>Jestiva</Kategorija>
+      <Dostupnost>Cijela godina</Dostupnost>
+   </Gljiva>
+   <Gljiva>
+      <Naziv>Bukovača</Naziv>
+      <Slika>bukovaca.jpg</Slika>
+      <Cijena>10.99 €</Cijena>
+      <Kategorija>Jestiva</Kategorija>
+      <Dostupnost>Cijela godina</Dostupnost>
+   </Gljiva>
+   <Gljiva>
+      <Naziv>Lisičarka</Naziv>
+      <Slika>lisicarka.jpg</Slika>
+      <Cijena>29.99 €</Cijena>
+      <Kategorija>Jestiva</Kategorija>
+      <Dostupnost>Ljeto</Dostupnost>
+   </Gljiva>
+   <Gljiva>
+      <Naziv>Tartuf</Naziv>
+      <Slika>tartufi.jpg</Slika>
+      <Cijena>199.99 €</Cijena>
+      <Kategorija>Delikatesa</Kategorija>
+      <Dostupnost>Ograničeno</Dostupnost>
+   </Gljiva>
+   <Gljiva>
+      <Naziv>Muhara</Naziv>
+      <Slika>muhara.jpg</Slika>
+      <Cijena>19.33 €</Cijena>
+      <Kategorija>Otrovna</Kategorija>
+      <Dostupnost>Ograničeno</Dostupnost>
+   </Gljiva>
+</KolekcijaGljiva>
